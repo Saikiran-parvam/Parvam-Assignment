@@ -6,7 +6,7 @@ This project is a simple HTML page that displays a class timetable using tables.
 - `class_timetable.html`
 
 ## 🛠️ Technologies
-- HTML5
+- HTML
 
 ## 👤 Author
 S Sai kiran Goud
